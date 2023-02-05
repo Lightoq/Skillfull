@@ -2,6 +2,6 @@
 exp-gain-modifier: 1.2
 
 levels:
-  start-exp: 100
-  level-change: 1.5
-  max-level: 10
+  start-exp: 150
+  level-change: 2
+  max-level: 15
